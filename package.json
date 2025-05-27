@@ -1,0 +1,22 @@
+{
+  "name": "super-search-array",
+  "version": "1.0.0",
+  "description": "super fast search array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iva3682/search-array-js.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "iva3682",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iva3682/search-array-js/issues"
+  },
+  "homepage": "https://github.com/iva3682/search-array-js#readme"
+}
